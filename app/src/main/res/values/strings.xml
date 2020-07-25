@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AssignmentApp</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="contact_us_phone_number">Phone Number : +91 9123456789</string>
+    <string name="contact_us_email_id">Email : abcde@xyz.com</string>
+
+    <string name="gallery">Gallery</string>
+    <string name="logout">Logout</string>
+
+    <string name="open_navigation_drawer">Open Navigation Drawer</string>
+    <string name="close_navigation_drawer">Close Navigation Drawer</string>
+</resources>
